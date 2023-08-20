@@ -11,7 +11,7 @@ import org.springframework.security.web.SecurityFilterChain;
 @Configuration
 public class DemoSecurityConfiguration {
 
-    @Bean
+    @Bean  //
     public InMemoryUserDetailsManager userDetailsManager() {
         UserDetails ahmet = User.builder()
                 .username("ahmet")
