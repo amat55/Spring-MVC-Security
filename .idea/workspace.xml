@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e37cd03e-a898-443b-8a0c-c561a0b8b897" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/security/DemoSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/security/DemoSecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fancy-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fancy-login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +96,7 @@
       <workItem from="1692537082297" duration="1479000" />
       <workItem from="1692541359625" duration="7000" />
       <workItem from="1692541376988" duration="1289000" />
-      <workItem from="1692565455959" duration="3460000" />
+      <workItem from="1692565455959" duration="4633000" />
     </task>
     <servers />
   </component>
