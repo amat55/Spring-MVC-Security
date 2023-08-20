@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37cd03e-a898-443b-8a0c-c561a0b8b897" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fancy-login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/plain-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/plain-login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/plain-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/plain-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/controller/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +56,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "login-error",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/SpringProjects/NewCourse2023/08-spring-boot-spring-mvc-security/01-spring-boot-spring-mvc-security",
+    "last_opened_file_path": "D:/Projects/SpringProjects/NewCourse2023/08-spring-boot-spring-mvc-security/01-spring-boot-spring-mvc-security/src/main/resources/templates",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +68,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\SpringProjects\NewCourse2023\08-spring-boot-spring-mvc-security\01-spring-boot-spring-mvc-security\src\main\resources\templates" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -91,7 +96,8 @@
       <workItem from="1692485032681" duration="907000" />
       <workItem from="1692537082297" duration="1479000" />
       <workItem from="1692541359625" duration="7000" />
-      <workItem from="1692541376988" duration="957000" />
+      <workItem from="1692541376988" duration="1289000" />
+      <workItem from="1692565455959" duration="2021000" />
     </task>
     <servers />
   </component>
