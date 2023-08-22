@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37cd03e-a898-443b-8a0c-c561a0b8b897" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/leaders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/systems.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/controller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/controller/LoginController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/security/DemoSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ahmetsenocak/demosecurity/security/DemoSecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ahmetsenocak/demosecurity/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ahmetsenocak/demosecurity/controller/DemoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ahmetsenocak/demosecurity/security/DemoSecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ahmetsenocak/demosecurity/security/DemoSecurityConfiguration.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Restrict-URLs-Based-on-Roles",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Projects/SpringProjects/NewCourse2023/08-spring-boot-spring-mvc-security/01-spring-boot-spring-mvc-security/src/main/resources/templates",
     "node.js.detected.package.eslint": "true",
