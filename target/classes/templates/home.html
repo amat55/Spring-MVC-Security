@@ -20,17 +20,20 @@
     Role(s):<span sec:authentication="principal.authorities"></span>  <!--authorities are roles -->
 </p>
 
-<hr>
-<!-- Add a link to point to /leaders ... this is for the managers only -->
-<p>
-    <a th:href="@{/leaders}">Leadership Meeting</a>
-</p>
-<hr>
+<div sec:authorize="hasRole('MANAGER')">
+    <!-- Add a link to point to /leaders ... this is for the managers only -->
+    <p>
+        <a th:href="@{/leaders}">Leadership Meeting</a>
+    </p>
 
-<p>
-    <a th:href="@{/systems}">Admin only</a>
-</p>
+</div>
 
+
+<div sec:authorize="hasRole('ADMIN')">
+    <p>
+        <a th:href="@{/systems}">Admin only</a>
+    </p>
+</div>
 <hr>
 
 
